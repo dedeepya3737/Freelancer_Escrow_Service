@@ -1,0 +1,1 @@
+C:\Users\dedee\Downloads\Time-Locked-Wallet-main\escrow-project\target\wasm32v1-none\release\hello_world.wasm: C:\Users\dedee\Downloads\Time-Locked-Wallet-main\escrow-project\contracts\hello-world\src\lib.rs

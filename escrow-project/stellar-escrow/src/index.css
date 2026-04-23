@@ -1,0 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&family=Instrument+Serif:ital@0;1&family=JetBrains+Mono:ital,wght@0,100..800;1,100..800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  body {
+    @apply bg-paper-bg text-taupe-500 font-sans selection:bg-accent-brown/10;
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    @apply text-taupe-900 tracking-tight font-serif;
+  }
+}
+
+.glass-nav {
+  background: rgba(251, 249, 244, 0.7);
+  backdrop-filter: blur(12px);
+  border-bottom: 1px solid #EAE6DF;
+}
+
+.card-premium {
+  @apply bg-white border border-paper-border shadow-[0_2px_12px_rgba(45,38,33,0.04)];
+}
+
+.btn-primary {
+  @apply bg-accent-brown text-white px-6 py-2.5 rounded-full text-sm font-medium hover:opacity-90 active:scale-[0.98] transition-all;
+}
+
+.btn-outline {
+  @apply border border-paper-border text-taupe-900 px-6 py-2.5 rounded-full text-sm font-medium hover:bg-taupe-100 active:scale-[0.98] transition-all;
+}
+
+/* Subtle transitions for all interactive elements */
+* {
+  @apply transition-all duration-200 ease-in-out;
+}
+
+::-webkit-scrollbar {
+  width: 6px;
+}
+
+::-webkit-scrollbar-track {
+  @apply bg-paper-bg;
+}
+
+::-webkit-scrollbar-thumb {
+  @apply bg-taupe-200 rounded-full hover:bg-taupe-500/20;
+}

@@ -1,0 +1,14 @@
+C:\Users\dedee\Downloads\Time-Locked-Wallet-main\escrow-project\target\release\deps\serde-712c587f258550ab.d: C:\Users\dedee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\dedee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\dedee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\dedee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\dedee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\dedee\Downloads\Time-Locked-Wallet-main\escrow-project\target\release\build\serde-55ca86a4a99bda8d\out/private.rs
+
+C:\Users\dedee\Downloads\Time-Locked-Wallet-main\escrow-project\target\release\deps\libserde-712c587f258550ab.rlib: C:\Users\dedee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\dedee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\dedee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\dedee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\dedee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\dedee\Downloads\Time-Locked-Wallet-main\escrow-project\target\release\build\serde-55ca86a4a99bda8d\out/private.rs
+
+C:\Users\dedee\Downloads\Time-Locked-Wallet-main\escrow-project\target\release\deps\libserde-712c587f258550ab.rmeta: C:\Users\dedee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs C:\Users\dedee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs C:\Users\dedee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs C:\Users\dedee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs C:\Users\dedee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs C:\Users\dedee\Downloads\Time-Locked-Wallet-main\escrow-project\target\release\build\serde-55ca86a4a99bda8d\out/private.rs
+
+C:\Users\dedee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\lib.rs:
+C:\Users\dedee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\integer128.rs:
+C:\Users\dedee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\mod.rs:
+C:\Users\dedee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\de.rs:
+C:\Users\dedee\.cargo\registry\src\index.crates.io-1949cf8c6b5b557f\serde-1.0.228\src\private\ser.rs:
+C:\Users\dedee\Downloads\Time-Locked-Wallet-main\escrow-project\target\release\build\serde-55ca86a4a99bda8d\out/private.rs:
+
+# env-dep:OUT_DIR=C:\\Users\\dedee\\Downloads\\Time-Locked-Wallet-main\\escrow-project\\target\\release\\build\\serde-55ca86a4a99bda8d\\out
