@@ -118,26 +118,6 @@ Transactions are indexed with numeric IDs for smart contract compatibility:
 
 ---
 
-## 📸 Platform Gallery
-
-### **1. On-Chain Audit Dashboard**
-*Visualizing the real-time ledger verification cards with deep-audit metadata.*
-![Audit Dashboard](screenshots/audit_view.png)
-
----
-
-### **2. Freelancer Submission Terminal**
-*The interactive workspace where freelancers submit their work directly to the blockchain.*
-![Submission Terminal](screenshots/submission_terminal.png)
-
----
-
-### **3. Professional Portfolio Ledger**
-*A permanent, file-backed history of all completed and paid assignments.*
-![Portfolio Ledger](screenshots/portfolio_ledger.png)
-
----
-
 ## 📝 Credits & Contributor 
 *Department of Computer Science*  
 *Specialization: IoT, Cybersecurity, and Blockchain*  
