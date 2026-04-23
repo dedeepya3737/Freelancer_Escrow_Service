@@ -118,6 +118,39 @@ Transactions are indexed with numeric IDs for smart contract compatibility:
 
 ---
 
+
+## 📸 Platform Gallery
+
+### **1. Service Library**
+*Browse and select from a diverse catalog of professional on-chain task templates.*
+![Service Catalog](screenshots/catalog.png)
+
+---
+
+### **2. Contract Deployment**
+*Deploy secure, time-locked escrow contracts directly on the Stellar Soroban ledger.*
+![Contract Deployment](screenshots/deploy.png)
+
+---
+
+### **3. On-Chain Audit**
+*Access immutable cryptographic proof and transaction metadata for every labor agreement.*
+![On-Chain Audit](screenshots/audit.png)
+
+---
+
+### **4. Freelancer Terminal**
+*An interactive workspace for submitting work and signing blockchain-verified delivery.*
+![Freelancer Terminal](screenshots/terminal.png)
+
+---
+
+### **5. Professional Portfolio**
+*An automated, file-backed registry showcasing all completed and paid assignments.*
+![Portfolio Ledger](screenshots/portfolio.png)
+
+---
+
 ## 📝 Credits & Contributor 
 *Department of Computer Science*  
 *Specialization: IoT, Cybersecurity, and Blockchain*  
